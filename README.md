@@ -1,2 +1,2 @@
 l'adresse du dépot : 
-git@github.com:Abdelkader123-sudo/GITHUB.git
+https://github.com/Abdelkader123-sudo/GITHUB.git
